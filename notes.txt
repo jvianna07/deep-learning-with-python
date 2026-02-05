@@ -1,1 +1,2 @@
 O que são funções de kernel?
+Diferença entres as principais funcoes de perda. O que é "s"parse_categorical_crossentropy"?
