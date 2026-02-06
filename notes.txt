@@ -1,5 +1,6 @@
 O que são funções de kernel?
 Diferença entres as principais funcoes de perda. O que é "s"parse_categorical_crossentropy"?
+O que é momentum?
 
 Um tensor é um contentor de dados. Uma matroz é um tensor 2D. Um vetor 1D é um tensor 1D. Um n-D tensor é uma tensor com n dimensoes (eixos)
 
